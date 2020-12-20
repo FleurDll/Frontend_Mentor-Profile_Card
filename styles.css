@@ -30,6 +30,10 @@ p {
   color: hsl(227, 10%, 46%);
 }
 
+hr {
+  border-top: 0;
+}
+
 table {
   margin: 30px auto;
 }
