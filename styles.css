@@ -1,8 +1,8 @@
 body {
   font-family: 'Kumbh Sans', sans-serif;
   height: 100%;
-  background: url("images/bg-pattern-top.svg") right 48vw bottom 38vh no-repeat,
-              url("images/bg-pattern-bottom.svg") left 50vw top 49vh no-repeat;
+  background: url("bg-pattern-top.svg") right 48vw bottom 38vh no-repeat,
+              url("bg-pattern-bottom.svg") left 50vw top 49vh no-repeat;
   background-color: hsl(185, 75%, 39%);
 }
 
@@ -71,7 +71,7 @@ td {
 }
 
 .card-top {
-  background-image: url(images/bg-pattern-card.svg);
+  background-image: url(bg-pattern-card.svg);
   border-radius: 12px 12px 0 0;
   display: flex;
   justify-content: center;
